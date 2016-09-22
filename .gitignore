@@ -5,3 +5,6 @@
 # objetos
 build
 *.o
+
+# make dos exercícios =P
+ex*/**/makefile
